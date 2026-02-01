@@ -5,5 +5,5 @@ function moveNo() {
 }
 
 function yesClick() {
-  document.body.innerHTML = "<h1>Yay! 💖🥰</h1>";
+  document.body.innerHTML = "<h1>I Love You Darling 💖🥰</h1>";
 }
