@@ -5,5 +5,18 @@ function moveNo() {
 }
 
 function yesClick() {
-  document.body.innerHTML = "<h1>I Love You Darling 💖🥰</h1>";
+  document.body.innerHTML = `
+    <div style="
+      height:100vh;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      background:#ffd6e8;
+      font-family:Arial;
+      text-align:center;
+    ">
+      <h1>I love you very much, Darling ❤️🥰</h1>
+    </div>
+  `;
 }
+
